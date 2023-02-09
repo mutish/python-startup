@@ -80,8 +80,3 @@ gender = input(" Enter your gender(male,female)")
 
 print(check_in(age,gender))
 
-# elif age >= 18 and gender == "male"
-# print("can go but no drink")
-# else:
-# print("invalid")
-#     return
