@@ -95,6 +95,8 @@ else:
     print("none meet condition")
 
 
+
+
 if variableCompare == 10 or secondVariable == 6:
     print("from or")
 elif variableCompare == 5 and secondVariable == 10:
@@ -102,3 +104,13 @@ elif variableCompare == 5 and secondVariable == 10:
 else:
     print("No condition met")
 
+
+
+
+if 'age:' > 18:
+    print("Too young")
+
+elif "age" > 18 and "gender" == female:
+    print("Go in and have drink." )
+else:
+    print("go in but no drink")
